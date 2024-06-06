@@ -1,1 +1,1 @@
-# School_surveys_of_satisfaction_at_6_months_training
+Mass survey system which allows you to have an initial vision of the quality of the lessons acquired after the first semester of training.
